@@ -1,0 +1,2 @@
+s this is the 2nd txt file.
+We are going to do some practical on GIT
